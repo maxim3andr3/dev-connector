@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://maxim3andr3:mySuperPassword@devconnector-zidbg.mongodb.net/dev-connector?retryWrites=true&w=majority"
+}
