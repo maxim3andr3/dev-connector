@@ -52,8 +52,8 @@ router.post(
       user = new User({
         name,
         email,
-        password,
         avatar,
+        password,
       });
 
       // Encrypt password
