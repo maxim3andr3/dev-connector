@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://maxim3andr3:mySuperPassword@devconnector-zidbg.mongodb.net/dev-connector?retryWrites=true&w=majority",
+  "jwtSecret": "mySuperSecret",
+  "githubClientId": "36551d271a3bd5935273",
+  "githubSecret": "53b870eed57154f78050895d1d5b35d6f2186204"
+}
